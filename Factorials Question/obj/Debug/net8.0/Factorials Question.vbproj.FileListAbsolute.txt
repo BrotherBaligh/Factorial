@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Factorials Question\bin\Debug\net8.0\Factorials Question.exe
+C:\Users\admin\source\repos\Factorials Question\bin\Debug\net8.0\Factorials Question.deps.json
+C:\Users\admin\source\repos\Factorials Question\bin\Debug\net8.0\Factorials Question.runtimeconfig.json
+C:\Users\admin\source\repos\Factorials Question\bin\Debug\net8.0\Factorials Question.dll
+C:\Users\admin\source\repos\Factorials Question\bin\Debug\net8.0\Factorials Question.pdb
+C:\Users\admin\source\repos\Factorials Question\obj\Debug\net8.0\Factorials Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Factorials Question\obj\Debug\net8.0\Factorials Question.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Factorials Question\obj\Debug\net8.0\Factorials Question.AssemblyInfo.vb
+C:\Users\admin\source\repos\Factorials Question\obj\Debug\net8.0\Factorials Question.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Factorials Question\obj\Debug\net8.0\Factorials Question.dll
+C:\Users\admin\source\repos\Factorials Question\obj\Debug\net8.0\refint\Factorials Question.dll
+C:\Users\admin\source\repos\Factorials Question\obj\Debug\net8.0\Factorials Question.pdb
+C:\Users\admin\source\repos\Factorials Question\obj\Debug\net8.0\Factorials Question.genruntimeconfig.cache
+C:\Users\admin\source\repos\Factorials Question\obj\Debug\net8.0\ref\Factorials Question.dll
